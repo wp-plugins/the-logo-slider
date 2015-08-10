@@ -1,0 +1,44 @@
+=== The Logo Slider ===
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=netattingomails@gmail.com&item_name=the+logo+slider
+Tags: Logo slider, Best logo slider, Responsive logo slider, easy logo slider, client logo slider, logo slider wordpress, owl carousel, owl carousel wordpress, owl carousel wordpress plugin
+Contributors: NetAttingo Technologies
+Author: NetAttingo Technologies
+Tested up to: 4.2.3
+License: GPLv2
+Requires at least: 3.5.0
+Stable tag: 1.0
+
+== Description ==
+This plugin will add a responsive logo slider in your wordpress site. 
+This is very simple to use. Follow the follwing steps -
+
+* Upload the folder "the-logo-slider" to "/wp-content/plugins/"
+* Activate the plugin through the "Plugins" menu in WordPress
+* Add logo images form WP-admin ->The Logo Slider -> Add New Logo
+* Use shortcode [the-logo-slider] in editor to show carousel
+* You can also call shortcode in php template file by  <?php echo do_shortcode('[the-logo-slider]');?>  
+
+
+== Screenshots ==
+
+1. Back end logo slider setting 
+2. Back end add new logo 
+3. Front end slider look
+
+== Frequently Asked Questions ==
+1. No technical skills needed.
+
+== Changelog ==
+This is first version no known errors found
+
+== Upgrade Notice == 
+This is first version no known notices yet
+
+== Installation ==
+1. Upload the folder "the-logo-slider" to "/wp-content/plugins/"
+2. Activate the plugin through the "Plugins" menu in WordPress
+3. Add logo images form WP-admin ->The Logo Slider -> Add New Logo
+4. Use shortcode [the-logo-slider] in editor to show carousel
+5. You can also call shortcode in php template file by  <?php echo do_shortcode('[the-logo-slider]');?>  
+
+
